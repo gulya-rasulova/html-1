@@ -1,3 +1,2 @@
 # html-1
-My first html project
-
+Bu layihədə HTML təcrübələrimi və təməl web strukturunu öyrənirəm
